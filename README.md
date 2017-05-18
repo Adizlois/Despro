@@ -1,5 +1,5 @@
 # Despro
-Despro (descarga de proyectos - project downloader) makes it possible to make local backups of one or several projects from the Epicollect 5 server (json file and pictures) and creates csv excel-compatible files. 
+Despro (descarga de proyectos - project downloader) makes it possible to create local backups of one or several projects from the Epicollect 5 server (json file and pictures) and creates csv excel-compatible files. 
 
 ## Script overview
 
